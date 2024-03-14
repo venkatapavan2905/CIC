@@ -3,6 +3,21 @@
 ![Screenshot 2023-03-28 at 9 38 09 PM](https://user-images.githubusercontent.com/43399466/228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8.png)
 
 
+![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/b39bbec0-3464-4fcc-8353-2270d4c7db36)
+
+
+
+![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/21e34db8-0b90-4ac7-99ba-fd446199a6d0)
+
+
+
+![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/55ca128e-4a96-4381-8b15-e9fe3fa5b729)
+
+
+
+![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/f94bb6e0-38ec-4c1c-942f-edd1dab2304b)
+
+
 Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD and Kubernetes:
 
 Prerequisites:
