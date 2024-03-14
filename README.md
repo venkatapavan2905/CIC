@@ -6,6 +6,10 @@
 ![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/b39bbec0-3464-4fcc-8353-2270d4c7db36)
 
 
+![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/f920aa9f-ef21-42a1-afc9-968882e4778f)
+
+
+
 
 ![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/21e34db8-0b90-4ac7-99ba-fd446199a6d0)
 
