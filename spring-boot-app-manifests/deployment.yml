@@ -15,7 +15,7 @@ spec:
         app: spring-boot-app
     spec:
       containers:
-      - name: spring-boot-app
-        image: venkatapavan29/cicd-pipeline:3
-        ports:
-        - containerPort: 8080
+        - name: spring-boot-app
+          image: venkatapavan29/cicd-pipeline:3
+          ports:
+            - containerPort: 8080
