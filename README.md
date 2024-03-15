@@ -22,7 +22,7 @@
 
 ![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/55ca128e-4a96-4381-8b15-e9fe3fa5b729)
 
-# Spring Boot App url from minikube cluster
+# Spring Boot App Service url from minikube cluster
 
 ![image](https://github.com/venkatapavan2905/CICD-Pipeline-2/assets/138016465/f94bb6e0-38ec-4c1c-942f-edd1dab2304b)
 
